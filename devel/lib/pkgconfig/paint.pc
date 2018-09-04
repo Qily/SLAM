@@ -1,0 +1,8 @@
+prefix=/home/yjy/catkin_ws/devel
+
+Name: paint
+Description: Description of paint
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yjy/catkin_ws/devel/lib 
+Requires: 
